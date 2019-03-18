@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>compare</title>
+    <desc>Created with Sketch.</desc>
+    <g id="compare" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="compare-copy">
+            <path d="M120,60 C120,93.1375123 93.1375123,120 60,120 C26.8624877,120 0,93.1375123 0,60 C0,26.8624877 26.8624877,0 60,0 C93.1375123,0 120,26.8624877 120,60 Z" id="Path" fill="#10E2C4" fill-rule="nonzero"></path>
+            <path d="M120,60.269985 C120,66.3481629 119.088135,72.2139828 117.391663,77.7389364 C109.888916,102.20203 87.0300293,120 60,120 C35.4940795,120 14.4168091,105.370995 5.10223383,84.4067952 C1.82098383,77.0271268 0,68.8609139 0,60.269985 C0,49.4862091 2.87109375,39.3714066 7.89367687,30.6382979 C18.234558,48.6203717 37.6968384,60.7366257 60,60.7366257 C82.3031616,60.7366257 101.768189,48.6203717 112.106323,30.6382979 C117.128906,39.3714066 120,49.4862091 120,60.269985 Z" id="Path" fill="#10E2C4" fill-rule="nonzero"></path>
+            <path d="M28.9361702,101.142878 L50.5672332,119.224094 C54.669249,119.759904 56.3614541,119.850487 59.3709701,119.937617 C91.0122974,120.853681 117.894908,94.9134898 119.97569,63.6005211 L90.8688687,21.1706629 L28.9361702,101.142878 Z" id="Path" fill="#0ECCB1" fill-rule="nonzero"></path>
+            <g id="Group-2" transform="translate(27.234043, 18.723404)">
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0.5" y="2.20212766" width="65.3829787" height="80.7021277" rx="6"></rect>
+                <rect id="Rectangle" stroke="#53606A" stroke-width="3" fill="#FFFFFF" x="1.5" y="3.20212766" width="63.3829787" height="78.7021277" rx="6"></rect>
+                <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="5.10638298 5.95744681 61.2765957 5.95744681 61.2765957 79.1489362 5.10638298 79.1489362"></polygon>
+                <path d="M33.1914894,4.25531915 L60.8297872,4.25531915 C62.4866415,4.25531915 63.8297872,5.5984649 63.8297872,7.25531915 L63.8297872,77.8510638 C63.8297872,79.5079181 62.4866415,80.8510638 60.8297872,80.8510638 L33.1914894,80.8510638 L33.1914894,4.25531915 Z" id="Path" fill="#D0F6FF" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#878787" x="19.5744681" y="0" width="27.2340426" height="8.5106383" rx="2"></rect>
+                <polygon id="Path" fill="#323B5A" fill-rule="nonzero" points="14.4680851 14.4680851 29.787234 14.4680851 29.787234 17.8723404 14.4680851 17.8723404"></polygon>
+                <polygon id="Path" fill="#323B5A" fill-rule="nonzero" points="38.2978723 14.4680851 51.9148936 14.4680851 51.9148936 17.8723404 38.2978723 17.8723404"></polygon>
+                <polygon id="Path" fill="#B2B1B1" fill-rule="nonzero" points="10.212766 23.8297872 30.6382979 23.8297872 30.6382979 28.9361702 10.212766 28.9361702"></polygon>
+                <polygon id="Path" fill="#B2B1B1" fill-rule="nonzero" points="10.212766 34.893617 30.6382979 34.893617 30.6382979 40 10.212766 40"></polygon>
+                <polygon id="Path" fill="#D35A68" fill-rule="nonzero" points="10.212766 45.9574468 30.6382979 45.9574468 30.6382979 51.0638298 10.212766 51.0638298"></polygon>
+                <polygon id="Path" fill="#B2B1B1" fill-rule="nonzero" points="35.7446809 34.893617 56.1702128 34.893617 56.1702128 40 35.7446809 40"></polygon>
+                <polygon id="Path-Copy-2" fill="#B2B1B1" fill-rule="nonzero" points="35.7446809 23.8297872 56.1702128 23.8297872 56.1702128 28.9361702 35.7446809 28.9361702"></polygon>
+                <polygon id="Path-Copy" fill="#07C1A6" fill-rule="nonzero" points="35.7446809 45.9574468 56.1702128 45.9574468 56.1702128 51.0638298 35.7446809 51.0638298"></polygon>
+                <polygon id="Path" fill="#07C1A6" fill-rule="nonzero" points="35.7446809 56.1702128 56.1702128 56.1702128 56.1702128 61.2765957 35.7446809 61.2765957"></polygon>
+                <polygon id="Path" fill="#07C1A6" fill-rule="nonzero" points="35.7446809 68.0851064 56.1702128 68.0851064 56.1702128 73.1914894 35.7446809 73.1914894"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

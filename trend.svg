@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>trend</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="8.81867738%" y1="50%" x2="85.2065701%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0.1%"></stop>
+            <stop stop-color="#FFF4C8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="trend" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="trend-copy" fill-rule="nonzero">
+            <circle id="Oval" fill="#FFDC00" cx="60" cy="60" r="60"></circle>
+            <path d="M120,60 C120,58.4130469 119.937188,56.8408594 119.81625,55.2850781 L92.774508,23.8476563 L65.765625,29.9414063 L65.765625,50.0782031 L45.234375,49.921875 L29.296875,71.3280469 L42.8913281,84.9225 L27.3319697,95.7926811 L55.4723438,119.830547 C56.9669531,119.942109 58.4767969,120 60,120 C93.1371094,120 120,93.1371094 120,60 Z" id="Path" fill="#FFC000"></path>
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="27.2340426" y="23.8297872" width="65.5319149" height="72.3404255"></rect>
+            <g id="Group" transform="translate(30.234375, 63.720080)" fill="#FF6838">
+                <rect id="Rectangle" x="0.17578125" y="10.3945313" width="16.640625" height="18.984375"></rect>
+                <rect id="Rectangle" x="21.4453125" y="0.08203125" width="16.640625" height="29.296875"></rect>
+            </g>
+            <g id="Group" transform="translate(60.000000, 51.063830)" fill="#AE4E32">
+                <rect id="Rectangle" x="0" y="12.7382813" width="8.3203125" height="29.296875"></rect>
+                <rect id="Rectangle" x="12.9492188" y="0.08203125" width="16.640625" height="41.953125"></rect>
+            </g>
+            <polygon id="Path" fill="#0074A3" points="36.68847 64.6808511 33.1914894 61.2217737 53.9666052 40.6716476 60.5700474 47.2033281 80.7581483 27.2340426 84.2553191 30.6933081 60.5700474 54.1218592 53.9666052 47.5899906"></polygon>
+            <polygon id="Path" fill="#005C83" points="65.9704826 27.2340426 65.9704826 32.0606012 76.0130106 32.0606012 60.4255319 47.6422174 60.4255319 54.4680851 79.4270021 35.473535 79.4270021 45.5124056 84.2553191 45.5124056 84.2553191 27.2340426"></polygon>
+        </g>
+    </g>
+</svg>

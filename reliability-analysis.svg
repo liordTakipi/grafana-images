@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>reliability-analysis</title>
+    <desc>Created with Sketch.</desc>
+    <g id="reliability-analysis" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reliability-analysis-copy" fill-rule="nonzero">
+            <circle id="Oval" fill="#E84F4F" cx="59.9997656" cy="59.9992969" r="59.9992969"></circle>
+            <path d="M29.787234,98.4026313 L50.7450465,119.360444 C53.6684059,119.806225 56.6906715,120.004506 59.7129372,120.004506 C91.5211403,120.004506 117.533015,95.2812251 119.613797,63.9682563 L89.6880934,34.0425532 L29.787234,98.4026313 Z" id="Path" fill="#C94545"></path>
+            <polygon id="Path" fill="#F7F7F8" points="30.0747656 21.6515625 77.3414063 21.6515625 89.975625 34.0877344 89.975625 98.4478125 30.0747656 98.4478125 30.0747656 21.7010156"></polygon>
+            <polygon id="Path" fill="#CCCCCC" points="77.3414063 21.6515625 89.975625 34.0877344 77.3414063 34.1371875 77.3414063 21.7010156"></polygon>
+            <polygon id="Path" fill="#323B5A" points="39.1489362 35.7446809 44.2553191 35.7446809 44.2553191 40.8510638 39.1489362 40.8510638"></polygon>
+            <polygon id="Path" fill="#323B5A" points="39.1489362 79.1489362 44.2553191 79.1489362 44.2553191 84.2553191 39.1489362 84.2553191"></polygon>
+            <polygon id="Path" fill="#323B5A" points="39.1489362 64.6808511 44.2553191 64.6808511 44.2553191 69.787234 39.1489362 69.787234"></polygon>
+            <polygon id="Path" fill="#323B5A" points="39.1489362 50.212766 44.2553191 50.212766 44.2553191 55.3191489 39.1489362 55.3191489"></polygon>
+            <polygon id="Path" fill="#E84F4F" points="48.5106383 37.4468085 74.8456267 37.4468085 74.8456267 41.2297174 48.5106383 41.2297174"></polygon>
+            <polygon id="Path" fill="#E84F4F" points="48.5106383 80 74.8456267 80 74.8456267 83.7829089 48.5106383 83.7829089"></polygon>
+            <polygon id="Path" fill="#E84F4F" points="48.5106383 65.5319149 74.8456267 65.5319149 74.8456267 69.3148238 48.5106383 69.3148238"></polygon>
+            <polygon id="Path" fill="#E84F4F" points="48.5106383 51.9148936 74.8456267 51.9148936 74.8456267 55.6978025 48.5106383 55.6978025"></polygon>
+        </g>
+    </g>
+</svg>
